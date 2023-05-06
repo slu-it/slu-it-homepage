@@ -1,0 +1,10 @@
+div {
+  text-align: center;
+  border-top: .1em solid #000000;
+  background-color: #413C58;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 65px;
+}
